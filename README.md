@@ -1,6 +1,3 @@
-# Livro de receitas :man_cook:
+# Usarei este antigo repositório como meu portifólio!
 
-Olá! Bem vindo ao meu livro de receitas :wave:
-
-- Arroz
 
