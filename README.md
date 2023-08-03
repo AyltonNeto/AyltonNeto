@@ -1,5 +1,5 @@
 # Aylton Neto
-#### 😉 Olá, este é o meu repositório remoto <br> 🎓 Cursando Gestão da TI pela Unicesumar <br> 📚 Foco em Engenharia e Análise de Dados <br>
+#### 😉 Olá, este é o meu Github! <br> 📊 Meu foco é Engenharia e Análise de Dados <br>
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/AyltonNeto/)
